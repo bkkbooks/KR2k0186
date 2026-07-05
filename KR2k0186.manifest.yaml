@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0186_001.yaml, hash: 'sha256:21a841e724f446f8a5e5b6af05220a72dea48872d942efc29174f4d7619819e8'}
+  - {seq: 1, filename: KR2k0186_001.yaml, hash: 'sha256:f405cb0da562b6ecd67680b301616b034b35ac9119d25b866fe80044afb5e1ee'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0186_001.markers.yaml, hash: 'sha256:17687c79c1fef8dc739f5d5a999174c84916369c229d054bafd617851b3d9c39'}
+  - {seq: 1, role: markers, filename: assets/KR2k0186_001.markers.yaml, hash: 'sha256:9fc6d30222499f36b0ae236a7b2841ddc6b53eb237522a8d1de625d9aea7faa9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 黃陵廟記
   type: section
   level: 1
-hash: sha256:60e4bfde3039b5bb403f501d0b54d22baa18024dd66ad9320cea5680bceaef08
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ad5f24e902014329bc3a7b9f8b1a7ca169bb82f0631d7953ea8d5ceb77cbe6c
